@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Happy</title>
+</head>
+<body>
+<h1>Welcome To Headings</h1>
+</body>
+</html>
